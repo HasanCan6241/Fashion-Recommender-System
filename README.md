@@ -33,10 +33,10 @@ A Deep Learning-powered **Fashion Recommendation System** that provides similar 
 ## 📷 Interface Preview  
 
 ### Uploading an Image  
-<img src="images/model-1.png" width="600">  
+<img src="images/model-1.png" width="850">  
 
 ### Recommended Results  
-<img src="images/model-2.png" width="600">  
+<img src="images/model-2.png" width="850">  
 
 ---
 
