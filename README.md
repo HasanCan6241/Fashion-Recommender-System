@@ -61,7 +61,7 @@ A Deep Learning-powered **Fashion Recommendation System** that provides similar 
 ### Prerequisites  
 
 Make sure you have the following installed:  
-- Python 3.8+  
+- Python 3.9+  
 - TensorFlow, Streamlit, NumPy, Scikit-learn  
 
 ### Installation  
